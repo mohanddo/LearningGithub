@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         println("Change 1")
         println("This the first commit of the new branch")
         println("This the second commit of the new branch")
+        println("Hello from your friend")
     }
 }
