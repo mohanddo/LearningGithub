@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        println("This the second commit")
+        println("change 2")
         println("This the first commit of the new branch")
     }
 }
