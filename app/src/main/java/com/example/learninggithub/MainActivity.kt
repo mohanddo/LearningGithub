@@ -18,6 +18,5 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("This the second commit")
-        println("I fucked up")
     }
 }
